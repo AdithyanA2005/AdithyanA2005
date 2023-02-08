@@ -1,16 +1,3 @@
-<!-- MY BLOG START -->
-<!-- A Image to the right side --> <img align="right" alt="GIF" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  height="200" />
-
-## My Blog
-✍🏻 I started to blog so that I can improve my knowledge and be able to share things that I know. Let me know if it helped you in any way
-
-### [<img src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
-
-<br>
-<!-- MY BLOG END -->
-
-
- 
 <!-- LANGUAGES AND TOOLS START -->
 ## Languages & Tools
 
@@ -153,20 +140,37 @@
 
 
 
+<!-- MY BLOG START -->
+<!-- A Image to the right side --> <img align="right" alt="GIF" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  height="200" />
+
+## My Blog
+✍🏻 I started to blog so that I can improve my knowledge and be able to share things that I know. Let me know if it helped you in any way
+
+### [<img src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
+
+<br>
+<!-- MY BLOG END -->
+
+
+
 <!-- CONTACT START -->
-## 📱 Let's Connect
+## Let's Connect
 
 ### [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="25" width="25" ><span align="center"> Linked In</span>](https://www.linkedin.com/in/adithyan-a-26b2161b3/) &nbsp; &nbsp; 
 
 ### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
+
+### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/instgram-icon.png" align="center" height="25" width="25" ><span align="center"> Instagram</span>]([https://adithyana.hashnode.dev/](https://www.instagram.com/adithyana2005/))
 
 <br>
 <!-- CONTACT END -->
 
 
 
+<!-- GITHUB STATS START -->
+## Github Stats
 <!-- Stats And Streak On Dark Mode -->
-[![Adithyan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=synthwave&count_private=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=500#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only) 
+[![Adithyan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=dark&count_private=true&icon_color=57a8ff&hide_border=true&card_width=500#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only) 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AdithyanA2005&theme=dark&hide_border=true)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
 
 <!-- Stats And Streak On Light Mode -->
@@ -175,10 +179,8 @@
 
 
 <!-- Top Languages On Dark Mode -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=dark&&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=dark&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!-- Top Languages On Light Mode -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=dark&&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-
-
+<!-- GITHUB STATS END -->
