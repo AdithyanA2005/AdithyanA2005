@@ -1,63 +1,184 @@
-<img src="https://github.com/catherineisonline/scandi/blob/main/Github%20profile.png" width="100%" height="100%"/>
+<!-- MY BLOG START -->
+<!-- A Image to the right side --> <img align="right" alt="GIF" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  height="200" />
 
-With 9 years of diverse experience in sales, customer support, social media, and team management, I am a highly adaptable and versatile professional looking to transition into the field of front-end web development. As a junior developer, I may not have extensive experience yet, but what I lack in experience, I make up for in passion and drive to learn. I am deeply passionate about creating responsive and beautiful websites using modern JavaScript, and I am constantly seeking to improve my skills and knowledge in this field. I am a quick learner and a team player, and I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact. I am looking for an opportunity to join a company where I can grow and learn as a front-end developer and where I can put my skills to use in real-world projects.
+## My Blog
+✍🏻 I started to blog so that I can improve my knowledge and be able to share things that I know. Let me know if it helped you in any way
 
-### ✍🏻 I started writing to improve my knowledge and help beginners understand things from a different perspective! Let me know if it helped you in any way
+### [<img src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
 
-
-<a  align="center" href="https://medium.com/@catherineisonline"><img src="https://github.com/catherineisonline/scandi/raw/main/medium-icon-white.png?raw=true&width=5#gh-dark-mode-only"  align="center" height="35" width="35" > Medium</a>
-
-
-
-<!-- [![Medium](https://github.com/catherineisonline/scandi/blob/main/medium-icon-black.png?raw=true#gh-light-mode-only)](https://medium.com/@catherineisonline) -->
+<br>
+<!-- MY BLOG END -->
 
 
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" height="320" />
-
-## 💅🏻 Languages & Tools
+ 
+<!-- LANGUAGES AND TOOLS START -->
+## Languages & Tools
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="35" height="35"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="30" height="30"/>
+<!-- ReactJS-Icon -->
+<img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- TailwindCSS-Icon -->
+<img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
+&nbsp; &nbsp;
+
+<!-- Firebase-Icon -->
+<img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- Node-Icon -->
+<img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- JS-Icon -->
+<img title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
+&nbsp; &nbsp;
+
+<!-- HTML5-Icon -->
+<img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- CSS3-Icon -->
+<img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- Python-Icon -->
+<img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- Java-Icon -->
+<img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- Git-Icon -->
+<img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- VSCode-Icon -->
+<img title="VS-Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<!-- MORE ICONS -->
+<!-- ---- ----- -->
+
+<!-- TS-Icon
+<img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Django-Icon
+<img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Flask-Icon
+<img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Fastapi-Icon
+<img title="Fastapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fastapi" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Yarn-Icon
+<img title="Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- MySQL-Icon
+<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- MongoDB-Icon
+<img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Gitlab-Icon
+<img title="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- NextJS-Icon
+<img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="git" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Github-Icon
+<img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Figma-Icon
+<img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Solidity-Icon
+<img title="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Flutter-Icon
+<img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- SASS-Icon
+<img title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- GoogleCloud-Icon
+<img title="GoogleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Googlecloud" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- Dart-Icon
+<img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
+<!-- C-Icon
+<img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
+&nbsp; &nbsp;
+-->
+
 </p>
+<br>
+<!-- LANGUAGES AND TOOLS END -->
 
 
 
-
+<!-- CONTACT START -->
 ## 📱 Let's Connect
 
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> [LinkedIn](https://www.linkedin.com/in/catherinemitagvaria/) <br/><br/>
-<img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars profile" height="auto" width="20"/> [Codewars](https://www.codewars.com/users/catherineisonline)<br/><br/>
-<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> [CodePen](https://codepen.io/catherineisonline)<br/><br/>
+### [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="25" width="25" ><span align="center"> Linked In</span>](https://www.linkedin.com/in/adithyan-a-26b2161b3/) &nbsp; &nbsp; 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
+
+<br>
+<!-- CONTACT END -->
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/DYh8ITFZ8VwXH1A5Hs/giphy.gif" width="300" height="400" />
 
-[![Catherine's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=400#gh-dark-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-dark-mode-only)
-[![Catherine's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=catherineisonline&show_icons=true&theme=default&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/catherineisonline/catherineisonline#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=catherineisonline&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- Stats And Streak On Dark Mode -->
+[![Adithyan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=synthwave&count_private=true&theme=dark&icon_color=57a8ff&hide_border=true&card_width=500#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only) 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdithyanA2005&theme=dark&hide_border=true)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
 
-<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark&icon_color=57a8ff&hide_border=true&card_width=150)](https://github.com/anuraghazra/github-readme-stats) --->
+<!-- Stats And Streak On Light Mode -->
+[![Adithyan's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&count_private=true&theme=light&icon_color=57a8ff&hide_border=true&card_width=400#gh-light-mode-only)](https://github.com/AdithyanA2005#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AdithyanA2005&theme=light&hide_border=true)](https://github.com/AdithyanA2005#gh-light-mode-only)
 
+
+<!-- Top Languages On Dark Mode -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=dark&&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<!-- Top Languages On Light Mode -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=dark&&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
 
