@@ -160,7 +160,7 @@
 
 ### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
 
-### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/instgram-icon.png" align="center" height="25" width="25" ><span align="center"> Instagram</span>]([https://adithyana.hashnode.dev/](https://www.instagram.com/adithyana2005/))
+### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/instgram-icon.png" align="center" height="25" width="25" ><span align="center"> Instagram</span>](https://www.instagram.com/adithyana2005/)
 
 <br>
 <!-- CONTACT END -->
