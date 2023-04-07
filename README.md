@@ -19,7 +19,7 @@
 &nbsp; &nbsp;
 
 <!-- JS-Icon -->
-<img title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
+<img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
 &nbsp; &nbsp;
 
 <!-- HTML5-Icon -->
