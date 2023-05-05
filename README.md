@@ -49,10 +49,9 @@
 <!-- MORE ICONS -->
 <!-- ---- ----- -->
 
-<!-- TS-Icon
+<!-- TS-Icon -->
 <img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
 &nbsp; &nbsp;
--->
 
 <!-- Django-Icon
 <img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
@@ -79,20 +78,18 @@
 &nbsp; &nbsp;
 -->
 
-<!-- MongoDB-Icon
+<!-- MongoDB-Icon -->
 <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
 <!-- Gitlab-Icon
 <img title="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="35" height="35"/>
 &nbsp; &nbsp;
 -->
 
-<!-- NextJS-Icon
+<!-- NextJS-Icon --> 
 <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="git" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
 <!-- Github-Icon
 <img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="35" height="35"/>
