@@ -15,7 +15,7 @@
 &nbsp; &nbsp;
 
 <!-- SanityCMS-Icon -->
-<img title="TailwindCSS" src="https://cdn.sanity.io/images/mox5d2d0/production/ae854953d2afd728238f668b38b330b09b53bebe-225x225.png?w=2000&fit=max&auto=format" alt="tailwind" width="35" height="35" />  
+<img title="SanityCMS" src="https://cdn.sanity.io/images/mox5d2d0/production/ae854953d2afd728238f668b38b330b09b53bebe-225x225.png?w=2000&fit=max&auto=format" alt="tailwind" width="35" height="35" />  
 &nbsp; &nbsp;
 
 <!-- Node-Icon -->
