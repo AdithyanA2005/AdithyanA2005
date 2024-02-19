@@ -7,7 +7,7 @@
 &nbsp; &nbsp;
 
 <!-- TailwindCSS-Icon -->
-<img title="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="35" height="35" />        
+<img title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="35" height="35" />        
 &nbsp; &nbsp;
 
 <!-- Firebase-Icon -->
@@ -157,7 +157,7 @@
 <!-- CONTACT START -->
 ## Let's Connect
 
-### [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="25" width="25" ><span align="center"> Linked In</span>](https://www.linkedin.com/in/adithyan-a-26b2161b3/) &nbsp; &nbsp; 
+### [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="25" width="25" ><span align="center"> Linked In</span>](https://www.linkedin.com/in/iadithyana/) &nbsp; &nbsp; 
 
 ### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
 
