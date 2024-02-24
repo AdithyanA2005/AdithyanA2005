@@ -8,145 +8,180 @@
 
 
 
-
-
 <!-- LANGUAGES AND TOOLS START -->
 ## Languages & Tools
+![Next.js Badge](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Prisma Badge](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+![Firebase Badge](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+<!--
+![React Native Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Prettier Badge](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-B125EA&style=for-the-badge&logo=kotlin&logoColor=white)
+![Go Badge](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Dart Badge](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+-->
+
+![Yarn Badge](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Vite Badge](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Strapi Badge](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![Socket.io Badge](https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white)
+![Shadcn UI Badge](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Shell Script Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![npm Badge](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Nginx Badge](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Material UI Badge](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![GraphQL Badge](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![FastAPI Badge](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Express.js Badge](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Expo Badge](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![daisyUI Badge](https://img.shields.io/badge/daisyUI-1ad1a5?style=for-the-badge&logo=daisyui&logoColor=white)
+![Appwrite Badge](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=Appwrite&logoColor=black)
+![bun Badge](https://img.shields.io/badge/bun-282a36?style=for-the-badge&logo=bun&logoColor=fbf0df)
+![GIMP Badge](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Supabase Badge](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis Badge](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+
+
+<!--
+![Amazon Pay Badge](https://img.shields.io/badge/amazon%20pay-F79114?style=for-the-badge&logo=amazon%20pay&logoColor=white)
+![Apple Pay Badge](https://img.shields.io/badge/apple%20pay-007AFF?style=for-the-badge&logo=apple%20pay&logoColor=white)
+![Buy Me A Coffee Badge](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![G Pay Badge](https://img.shields.io/badge/G%20pay-2875E3?style=for-the-badge&logo=googlepay&logoColor=white)
+![MasterCard Badge](https://img.shields.io/badge/MasterCard-EB001B?style=for-the-badge&logo=MasterCard&logoColor=white)
+![Patreon Badge](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)
+![PayPal Badge](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![Paytm Badge](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
+![PhonePe Badge](https://img.shields.io/badge/phonepe-3DDC84?style=for-the-badge&logo=phonepe&logoColor=white&color=purple)
+![Razorpay Badge](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF)
+![Samsung Pay Badge](https://img.shields.io/badge/samsung%20pay-1D49C0?style=for-the-badge&logo=samsung%20pay&logoColor=white)
+![GitHub Sponsors Badge](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
+![Stripe Badge](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+-->
+
+<!--
+![Xcode Badge](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![WebStorm Badge](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
+![Visual Studio Code Badge](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![VIM Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Sublime Text Badge](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
+![PyCharm Badge](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![NeoVim Badge](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![IntelliJ IDEA Badge](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Colab Badge](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+![Android Studio Badge](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+-->
+
+<!--
 <p>
-<!-- ReactJS-Icon -->
 <img title="ReactJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- TailwindCSS-Icon -->
 <img title="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="35" height="35" />        
 &nbsp; &nbsp;
 
-<!-- Firebase-Icon -->
 <img title="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- SanityCMS-Icon -->
 <img title="SanityCMS" src="https://cdn.sanity.io/images/mox5d2d0/production/ae854953d2afd728238f668b38b330b09b53bebe-225x225.png?w=2000&fit=max&auto=format" alt="tailwind" width="35" height="35" />  
 &nbsp; &nbsp;
 
-<!-- Node-Icon -->
 <img title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- JS-Icon -->
 <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
 &nbsp; &nbsp;
 
-<!-- HTML5-Icon -->
 <img title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- CSS3-Icon -->
 <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Python-Icon -->
 <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Java-Icon -->
 <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Git-Icon -->
 <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- VSCode-Icon -->
 <img title="VS-Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- MORE ICONS -->
-<!-- ---- ----- -->
-
-<!-- TS-Icon -->
 <img title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Django-Icon
-<img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- Flask-Icon
-<img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- Fastapi-Icon
-<img title="Fastapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fastapi" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- Yarn-Icon
-<img title="Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- MySQL-Icon
-<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- MongoDB-Icon -->
 <img title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Gitlab-Icon
-<img title="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- NextJS-Icon --> 
 <img title="NextJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="git" width="35" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Github-Icon
-<img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="35" height="35"/>
-&nbsp; &nbsp;
--->
-
-<!-- Figma-Icon -->
 <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
 &nbsp; &nbsp;
 
-<!-- Solidity-Icon
+<img title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="Fastapi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="Fastapi" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="Yarn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="Gitlab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="35" height="35"/>
+&nbsp; &nbsp;
+
+<img title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Github" width="35" height="35"/>
+&nbsp; &nbsp;
+
 <img title="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
-<!-- Flutter-Icon
 <img title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
-<!-- SASS-Icon
 <img title="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
-<!-- GoogleCloud-Icon
 <img title="GoogleCloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Googlecloud" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
-<!-- Dart-Icon
 <img title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="35" height="35"/>
 &nbsp; &nbsp;
--->
 
-<!-- C-Icon
 <img title="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="35" height="35"/>
 &nbsp; &nbsp;
+</p>
 -->
 
-</p>
 <br>
 <!-- LANGUAGES AND TOOLS END -->
 
@@ -164,16 +199,24 @@
 <!-- MY BLOG END -->
 
 
-
+![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 <!-- CONTACT START -->
 ## Let's Connect
 
-### [<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" height="25" width="25" ><span align="center"> Linked In</span>](https://www.linkedin.com/in/iadithyana/) &nbsp; &nbsp; 
-
-### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/hashnode-icon.png" align="center" height="25" width="25" ><span align="center"> Hashnode</span>](https://adithyana.hashnode.dev/)
-
-### [<img align="center" src="https://raw.githubusercontent.com/AdithyanA2005/AdithyanA2005/main/instgram-icon.png" align="center" height="25" width="25" ><span align="center"> Instagram</span>](https://www.instagram.com/adithyana2005/)
-
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iadithyana/)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20864973/adithyan-a)
+[![X Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iadithyana)
+[![Threads Badge](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.net/@iadithyana)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@adithyana)
+<!--
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-linkedin-URL)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-linkedin-URL)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-linkedin-URL)
+[![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](your-linkedin-URL)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](your-linkedin-URL)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-linkedin-URL)
+ -->
+ 
 <br>
 <!-- CONTACT END -->
 
