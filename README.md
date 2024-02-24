@@ -184,21 +184,21 @@
 ## Github Stats
 
 <!-- Streaks On Dark Mode -->
-[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdithyanA2005&theme=gotham&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdithyanA2005&theme=ambient_gradient&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
 
 <!-- Streaks On Light Mode -->
 [![Streak](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&theme=light&count_private=true&hide_border=true&card_width=1000#gh-light-mode-only)](https://github.com/AdithyanA2005#gh-light-mode-only)
 
 
 <!-- Stats And Streak On Dark Mode -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=gotham&count_private=true&icon_color=57a8ff&hide_border=true&card_width=1000#gh-dark-mode-only)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=ambient_gradient&count_private=true&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/AdithyanA2005/#gh-dark-mode-only)
 
 <!-- Stats And Streak On Light Mode -->
-[![Stats](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&count_private=true&theme=light&icon_color=57a8ff&hide_border=true&card_width=1000#gh-light-mode-only)](https://github.com/AdithyanA2005#gh-light-mode-only)
+[![Stats](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&count_private=true&theme=light&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/AdithyanA2005#gh-light-mode-only)
 
 
 <!-- Top Languages On Dark Mode -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=gotham&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=ambient_gradient&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!-- Top Languages On Light Mode -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=light&langs_count=10&icon_color=57a8ff&hide_border=true&card_width=1000)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
