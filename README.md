@@ -112,10 +112,9 @@
 &nbsp; &nbsp;
 -->
 
-<!-- Figma-Icon
+<!-- Figma-Icon -->
 <img title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="30" height="35"/>
 &nbsp; &nbsp;
--->
 
 <!-- Solidity-Icon
 <img title="Solidity" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="35" height="35"/>
