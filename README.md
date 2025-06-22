@@ -47,9 +47,43 @@
 <!-- GITHUB STATS START -->
 ## Github Stats
 
+<!-- Streak -->
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats-liart-ten.vercel.app/?user=AdithyanA2005&theme=nord&count_private=true&hide_border=true&card_width=1000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-streak-stats-liart-ten.vercel.app/?user=AdithyanA2005&theme=default&count_private=true&card_width=1000" />
+</picture>
 
-![Adi's Streak - Dark](https://github-readme-streak-stats-liart-ten.vercel.app/?user=AdithyanA2005&theme=nord&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)
-![Adi's Stats - Dark](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&rank_icon=percentile&show_icons=true&theme=nord&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)
-![Adi's Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=nord&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000#gh-dark-mode-only)
-![Adi's Trophies - Dark](https://github-profile-trophy.vercel.app/?username=AdithyanA2005&theme=nord&no-frame=true&margin-w=5&margin-h=5#gh-dark-mode-only)
+<!-- Stats -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=AdithyanA2005&rank_icon=default&show_icons=true&theme=nord&count_private=true&hide_border=true&card_width=1000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdithyanA2005&rank_icon=default&show_icons=true&theme=default&count_private=true&card_width=1000" />
+</picture>
+
+<!-- Top Langs -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=nord&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=default&langs_count=20&icon_color=57a8ff&card_width=1000" />
+</picture>
 <!-- GITHUB STATS END -->
+
+<!-- GITHUB TROPHIES START -->
+## Github Trophies
+
+<!-- Trophies -->
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=AdithyanA2005&theme=nord&no-frame=true&margin-w=5&margin-h=5"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdithyanA2005&theme=flat&margin-w=5&margin-h=5" />
+</picture>
+<!-- GITHUB TROPHIES END -->
