@@ -51,7 +51,7 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=adithyana2005&style=for-the-badge&color=blueviolet" alt="adithyana2005"/>
 </p>
 
-![Streak](https://github-readme-streak-stats-liart-ten.vercel.app/?user=AdithyanA2005&theme=ambient_gradient&count_private=true&hide_border=true&card_width=1000)
-![Stats](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=ambient_gradient&count_private=true&icon_color=57a8ff&hide_border=true&card_width=1000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=ambient_gradient&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000)
+![Adi's Streak - Dark](https://github-readme-streak-stats-liart-ten.vercel.app/?user=AdithyanA2005&theme=ambient_gradient&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)
+![Adi's Stats - Dark](https://github-readme-stats.vercel.app/api?username=AdithyanA2005&show_icons=true&theme=ambient_gradient&count_private=true&hide_border=true&card_width=1000#gh-dark-mode-only)
+![Adi's Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyanA2005&theme=ambient_gradient&langs_count=20&icon_color=57a8ff&hide_border=true&card_width=1000#gh-dark-mode-only)
 <!-- GITHUB STATS END -->
